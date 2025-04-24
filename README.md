@@ -48,10 +48,6 @@ Arkspace.me is developing an autonomous, bio-carrying CubeSat system with these 
    - Follow the IDE setup guide in `dev-guides/ide-setup.md`
    - Install required dependencies via the installation scripts
 
-3. Join our communication channels:
-   - Slack: [arkspace.slack.com](https://arkspace.slack.com)
-   - Weekly dev meetings: Thursdays at 18:00 UTC
-
 ## Contribution Guidelines
 
 See `dev-guides/contribution.md` for detailed information on:
